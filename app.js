@@ -193,7 +193,7 @@ Si fuera hotel, ya tendría tarjeta VIP platino con desayuno incluido.
 Dato curioso: La cafetería le da fiado porque lo consideran parte del mobiliario fijo.`
 },
 {
-  claves: ["gleddy", "gomez", "carmargo"],
+  claves: ["gleddy", "gómez", "camargo" ,"economista", "fit"],
   descripcion: `Siri dice:
 
 Gleddy Gómez Carmargo detectada.
